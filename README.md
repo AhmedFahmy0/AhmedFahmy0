@@ -5,8 +5,7 @@
 
 - 💬 Ask me about **Mern Stack**
 
-- 💞️ I’m looking to collaborate on stable company where I can use
--  my talent to add value to the company
+- 💞️ I’m looking to collaborate on stable company where I can use my talent to add value to the company
 
 - 📫 How to reach me **ahmed.m.f.m.0@gmail.com**
 
